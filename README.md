@@ -7,7 +7,7 @@ I'm Valentin, a French passionate developer based in Málaga, Spain. Every day, 
 
 ### ⚡️ A Few Quick Facts
 
-- 👨‍💻 I'm currently working as a Senior Frontend Engineer at **[Groover](https://groover.co/)**
+- 👨‍💻 I'm currently working as a Tech Lead Frontend at **[Groover](https://groover.co/)**
 - 🛸 Learning about **Web3**, **DeFi**, and **Creative Coding**
 - 👨‍🏫 Mentoring devs at **[OpenClassrooms](https://openclassrooms.com/en/)**
 - 🍣 Sushi addict
